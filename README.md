@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizoku-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="kaizoku-ayush" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ayushku08481161" target="blank"><img src="https://img.shields.io/twitter/follow/ayushku08481161?logo=twitter&style=for-the-badge" alt="ayushku08481161" /></a> </p>
-
 - 🌱 I’m currently learning **Frontend Developement.**
 
 - 💬 Ask me about **Python, C, C++, Java, JS, HTML, CSS**
