@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizoku-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="kaizoku-ayush" /> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and Data Analytics.**
-- Currently solved: 372 problems
+- Currently solved: 402 problems
 
 - 💬 Ask me about **Python, C, C++, Java, JS, HTML, CSS**
 
